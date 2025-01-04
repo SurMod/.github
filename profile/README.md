@@ -57,9 +57,6 @@ Si deseas más información sobre nuestros proyectos o servicios, no dudes en co
 ---
 
 Gracias por visitar nuestro perfil de GitHub. ¡Esperamos trabajar contigo y crear grandes cosas juntos!  
-## Hi there 👋
-
-<!--
 
 **Here are some ideas to get you started:**
 

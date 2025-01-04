@@ -50,7 +50,7 @@ Nos encantaría contar con tu colaboración en nuestros proyectos. Puedes contri
 
 Si deseas más información sobre nuestros proyectos o servicios, no dudes en contactarnos:
 
-- **Correo electrónico:** [webmaster@casa-carreras.es](mailto:josemanuel@pedraja.es)  
+- **Correo electrónico:** [josemanuel@pedraja.es](mailto:josemanuel@pedraja.es)  
 - **Página web:** [Representaciones Pedraja](https://pedraja.es)  
 - **LinkedIn:** [Enlace a nuestro perfil](#) *(Próximamente)*  
 

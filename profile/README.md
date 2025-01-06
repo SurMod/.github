@@ -6,7 +6,7 @@
 
 Algunos de nuestros repositorios más relevantes:
 
-- [Smart Banner](https://github.com/Representaciones-Pedraja/smartbanner): Módulo para PrestaShop que permite añadir banners inteligentes y configurables.
+- [Smart Banner](https://github.com/josemanuelpedraja/smartbanner): Módulo para PrestaShop que permite añadir banners inteligentes y configurables.
 
 
 ---

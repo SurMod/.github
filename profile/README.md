@@ -1,43 +1,26 @@
-# Representaciones Pedraja
+# SurMod
 
-¡Bienvenidos al GitHub oficial de **Representaciones Pedraja**!  
+Bienvenido al GitHub de **SurMod**.
 
-## 🛠️ Proyectos destacados
+Somos un estudio que desarrolla **plugins a medida para WordPress y WooCommerce**, con integración directa en **FacturaScripts**, y las apps/webs que los acompañan — **Flutter** para móvil y **Next.js** para la web. No vendemos plantillas genéricas: cada plugin nace de una necesidad real de un cliente y luego se convierte en producto.
 
-Algunos de nuestros repositorios más relevantes:
+## A qué nos dedicamos
 
-- [Smart Banner](https://github.com/josemanuelpedraja/smartbanner): Módulo para PrestaShop que permite añadir banners inteligentes y configurables.
+- **Plugins WooCommerce a medida** — desde paneles B2B para redes de agentes comerciales hasta tiendas B2C completas, con precios, carritos, descuentos y zonas de venta configurables.
+- **Integración WooCommerce ↔ FacturaScripts** — facturación automática, sincronización de stock y variantes, devoluciones como rectificativas, IVA/IGIC/recargo de equivalencia.
+- **Apps móviles con Flutter** — mismo código para Android e iOS, conectadas en tiempo real a la tienda y a la facturación.
+- **Webs headless con Next.js** — frontends rápidos sobre WooCommerce/WordPress, con el contenido gestionado desde el panel de siempre.
+- **Infraestructura** — despliegues con Docker y Traefik, certificados automáticos, backups y monitorización.
 
+## Productos
 
----
+- **SuperB2B** — plugin WooCommerce para venta B2B pensado para agentes comerciales, representantes y delegados de zona: tarifas por marca, pedidos mínimos, zonas de venta restringidas y app móvil propia.
+- **SyncFactuWoo** — sincronización bidireccional entre WooCommerce y FacturaScripts, con facturación automática y descarga de factura en PDF para el cliente.
+- **SuperB2C** *(en desarrollo)* — la misma base de SuperB2B pero pensada para tiendas online al público general: sin condiciones comerciales por cliente, con login social y notificaciones push.
 
-## 🤝 Colabora con nosotros
+La mayoría de nuestros repositorios son privados (código de producto bajo licencia), pero si te interesa alguno en concreto o quieres un plugin a medida, contáctanos.
 
-Nos encantaría contar con tu colaboración en nuestros proyectos. Puedes contribuir mediante:
+## Contacto
 
-1. Realizando *forks* y *pull requests* en los repositorios públicos.  
-2. Reportando problemas o solicitando nuevas funciones en la sección de [Issues](https://github.com/Representaciones-Pedraja/).  
-3. Sugiriendo ideas o mejoras contactándonos directamente.
-
----
-
-## 📫 Contáctanos
-
-Si deseas más información sobre nuestros proyectos o servicios, no dudes en contactarnos:
-
-- **Correo electrónico:** [josemanuel@pedraja.es](mailto:josemanuel@pedraja.es)  
-- **Página web:** [Representaciones Pedraja](https://pedraja.es)  
-- **LinkedIn:** [Enlace a nuestro perfil](#) *(Próximamente)*  
-
----
-
-Gracias por visitar nuestro perfil de GitHub. ¡Esperamos trabajar contigo y crear grandes cosas juntos!  
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Web:** [surmod.es](https://surmod.es)
+- **Contacto:** [surmod.es/contact](https://surmod.es/contact)

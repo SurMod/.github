@@ -7,7 +7,7 @@ Somos un estudio que desarrolla **plugins a medida para WordPress y WooCommerce*
 ## A qué nos dedicamos
 
 - **Plugins WooCommerce a medida** — desde paneles B2B para redes de agentes comerciales hasta tiendas B2C completas, con precios, carritos, descuentos y zonas de venta configurables.
-- **Integración WooCommerce ↔ FacturaScripts** — facturación automática, sincronización de stock y variantes, devoluciones como rectificativas, IVA/IGIC/recargo de equivalencia.
+- **Odoo** — facturación automática, sincronización de stock y variantes, devoluciones como rectificativas, IVA/IGIC/recargo de equivalencia.
 - **Apps móviles con Flutter** — mismo código para Android e iOS, conectadas en tiempo real a la tienda y a la facturación.
 - **Webs headless con Next.js** — frontends rápidos sobre WooCommerce/WordPress, con el contenido gestionado desde el panel de siempre.
 - **Infraestructura** — despliegues con Docker y Traefik, certificados automáticos, backups y monitorización.
@@ -15,8 +15,6 @@ Somos un estudio que desarrolla **plugins a medida para WordPress y WooCommerce*
 ## Productos
 
 - **SuperB2B** — plugin WooCommerce para venta B2B pensado para agentes comerciales, representantes y delegados de zona: tarifas por marca, pedidos mínimos, zonas de venta restringidas y app móvil propia.
-- **SyncFactuWoo** — sincronización bidireccional entre WooCommerce y FacturaScripts, con facturación automática y descarga de factura en PDF para el cliente.
-- **SuperB2C** *(en desarrollo)* — la misma base de SuperB2B pero pensada para tiendas online al público general: sin condiciones comerciales por cliente, con login social y notificaciones push.
 
 La mayoría de nuestros repositorios son privados (código de producto bajo licencia), pero si te interesa alguno en concreto o quieres un plugin a medida, contáctanos.
 

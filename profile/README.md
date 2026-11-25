@@ -15,7 +15,7 @@ Somos un estudio que desarrolla **plugins a medida para WordPress y WooCommerce*
 ## Productos
 
 - **SuperB2B** — plugin WooCommerce para venta B2B pensado para agentes comerciales, representantes y delegados de zona: tarifas por marca, pedidos mínimos, zonas de venta restringidas y app móvil propia.
-- **SmartBanner** — plugin Prestashop para promocionar commo un smartbanner tu app.
+- **SmartBanner** — plugin Prestashop para promocionar como un smartbanner tu app.
 
   
 La mayoría de nuestros repositorios son privados (código de producto bajo licencia), pero si te interesa alguno en concreto o quieres un plugin a medida, contáctanos.
